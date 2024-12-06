@@ -1,2 +1,9 @@
-# KD_PANTA_00
-Speed bot buy👨‍💻 ( KD_PANTA_00_MD ) 👨‍💻
+-----------
+
+***WELCOME TO SILENT-SOBX-MD PLUGINS LIST CREATED BY SILENTLOVER432***
+
+-----------
+
+***THE WORLD BEST WHATSAPP BOT***
+
+----------
