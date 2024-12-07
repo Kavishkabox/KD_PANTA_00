@@ -1,4 +1,4 @@
-const fs = require('fs');
+ const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
 function convertToBool(text, fault = 'true') {
@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=CvRnGLQY#lOMF58v6SkRPL9mUvEfKG1NEKp4TPMyDMXjfS7BWALM",
+    SESSION_ID: process.env.SESSION_ID || "PRABATH-MD~l3UEXZ5b#sKpj6xT_NBCwEMq1mxgwxMdL1F3wLjshntWjlmi54xU",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     READ_MESSAGE: process.env.READ_MESSAGE || "true", // Added auto-read configuration
     MODE: process.env.MODE || "public",
