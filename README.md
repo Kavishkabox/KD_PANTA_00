@@ -1,6 +1,8 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=K+D+_+P+A+N+T+A+_+0+0" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%BF%E2%98%A0%EF%B8%8F+_+%F0%9D%97%9E+%F0%9D%97%97+_+%F0%9D%97%A3+%F0%9D%97%94+%F0%9D%97%A1+%F0%9D%97%A7+%F0%9D%97%94+_+00+_+%E2%98%A0%EF%B8%8F%F0%9F%91%BF" alt="Typing SVG" /></a>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
