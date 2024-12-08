@@ -28,7 +28,30 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-return await conn.sendMessage(from,{image: {url: config.ALIVE_IMG},caption: config.ALIVE_MSG},{quoted: mek})
+const cap = `
+*ALIVE_KD_PANTA_00*
+*╭────────────────╮*
+*📌𝗡𝗶𝗰𝗲 𝗧𝗼 𝗠𝗲𝗮𝘁 𝘆𝗼𝘂*
+*╰────────────────╯*
+⥈⥈⥈*𝚂𝚄𝙿𝙿𝙾𝚃 𝙶𝚁𝙾𝚄𝙿*⥈⥈⥈
+*╭────────────────⊶* *https://chat.whatsapp.com/GvR2hfJ42mO9HNwuFJVax6*
+*╰────────────────⊶*
+*╭────────────────⊶*
+*⭕Creator by ᴋᴀᴠɪꜱʜᴋᴀ)*
+*⭕ᴋᴅ ᴘᴀɴᴛᴀ ᴀʟɪᴠᴇ*
+*╰────────────────⊶*
+
+*╭────────────────⊶*
+*🤖: ᴏᴡɴᴇʀ :¢ontact👨‍💻*
+
+*https://wa.me/+94770161293?text=ʜᴇʏ_𝚔𝚊𝚟𝚒𝚜𝚑𝚔𝚊*
+*╰────────────────⊶*
+*╭────────────────⊶*
+> *KD_PANTA_00_YTDL*
+*╰────────────────⊶*`
+
+    
+return await conn.sendMessage(from,{image: {url: config.ALIVE_IMG},caption: cap},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`${e}`)
