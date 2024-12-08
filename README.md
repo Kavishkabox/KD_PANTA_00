@@ -11,7 +11,7 @@
 </a>
 <hr>
 
-<a href="https://whatsapp.com/channel/0029VaxNSDR4SpkEoUszuP3E"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20Join%20Our%20WhatsApp%20Channel-black" alt="JOIN MY WHATSAPP CANNEL KD_PANTA_00" width="300"></a>
+<a href="https://whatsapp.com/channel/0029VaxNSDR4SpkEoUszuP3E"><img alt="JOIN MY WHATSAPP CANNEL KD_PANTA_00" width="300"></a>
 
 
 
