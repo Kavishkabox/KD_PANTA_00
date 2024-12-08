@@ -3,6 +3,6 @@
 </p>
 <p align="center">
 <a href="https://github.com/VajiraTech">
-    <img src="https://pomf2.lain.la/f/aqi35mmg.jpg"  width="700px">
+    <img src="https://pomf2.lain.la/f/fxhw0z8c.jpg"  width="700px">
 </a>
 <hr>
