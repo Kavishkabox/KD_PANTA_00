@@ -1,0 +1,54 @@
+Skip to content
+Navigation Menu
+KavishkaIroshanb
+KD_PANTA_00
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Node.js CI
+Update alive.js #54
+Jobs
+Run details
+Workflow file for this run
+.github/workflows/main.yml at ac36307
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+Update alive.js · KavishkaIroshanb/KD_PANTA_00@ac36307
