@@ -23,7 +23,7 @@
 
 <a href="https://whatsapp.com/channel/0029VaxNSDR4SpkEoUszuP3E"><img alt="JOIN MY WHATSAPP CANNEL KD_PANTA_00" width="300"></a>
 
-<p align="center">
+
 
 𝗠𝗬 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣🤖
 
