@@ -20,6 +20,8 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center">
 
+𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘👨‍💻
+
 <p align="center">
 <a href="https://webpair-mega-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
 <p/>
